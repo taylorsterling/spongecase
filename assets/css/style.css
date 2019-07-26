@@ -1,4 +1,27 @@
-html {
-    background: linear-gradient(blue, darkblue);
-    width: 100%;
+body {
+    background: linear-gradient(rgb(0, 183, 255), rgb(1, 87, 145), rgb(2, 1, 109));
+    height: 100vh;
+}
+
+
+
+h1 {
+    color: white;
+    font-family: hanalei;
+    text-align: center;
+    margin-top: 7vh;
+    font-size: 5vw;
+}
+
+p {
+    color: white;
+    font-size: 2vw;
+    text-align: center;
+    font-family: indie flower;
+}
+
+#sbinit {
+    align-self: center;
+    width: 91vh;
+    margin-top: 5%;
 }
